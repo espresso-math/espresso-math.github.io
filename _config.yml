@@ -3,7 +3,7 @@ tagline:          A Cup of Figures
 description: "Reader, you have been warned! This definitly is not a blog. This is where I keep an extended version of my notes and writing. Do not attempt to find any meaning or purpose in my writing. You will fail miserably."
 # An awesome quote for your website
 quote:  "Cringe. Now bad poetry."
-canonical: espresso-math.github.io
+canonical: https://espresso-math.github.io
 #Comment out the below line when pushing to gh-pages
 #url: http://10.42.0.1/_site 
 #For local development only. Comment it out.
@@ -12,15 +12,15 @@ canonical: espresso-math.github.io
 
 # Owner/author information
 owner:
-  name:           Adrian Glitch
+  name:           Xselsio
   avatar:         avatar.jpg
   bio:            
-  email:          adrianglitch.auth@gmail.com
+  email:          email@provid.er
   twitter:        
   github:         espresso-math
   instagram:      
   dribbble:
-  googleplus:     https://plus.google.com/u/3/105796012708469039091       
+  googleplus:           
   disqus:         espresso-math
   location:       
   # Plug in your disqus shortname!
